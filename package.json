@@ -1,7 +1,7 @@
 {
-  "name": "egg-full-qiniu",
-  "version": "1.1.6",
-  "description": "封装七牛云SDK，方便在egg中使用，包含文件上传，资源管理，CDN推送",
+  "name": "egg-full-qiniu-plus",
+  "version": "1.0.0",
+  "description": "基于 egg-full-qiniu 优化的版本，封装七牛云SDK，方便在egg中使用，包含文件上传，资源管理，CDN推送",
   "eggPlugin": {
     "name": "fullQiniu"
   },
@@ -49,12 +49,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alex-my/egg-full-qiniu.git"
+    "url": "git+https://github.com/VelinYang/egg-full-qiniu"
   },
   "bugs": {
-    "url": "https://github.com/alex-my/egg-full-qiniu/issues"
+    "url": "https://github.com/VelinYang/egg-full-qiniu/issues"
   },
-  "homepage": "https://github.com/alex-my/egg-full-qiniu#readme",
-  "author": "alex_my@126.com",
+  "homepage": "https://github.com/VelinYang/egg-full-qiniu#readme",
+  "author": "945321419@qq.com",
   "license": "MIT"
 }
