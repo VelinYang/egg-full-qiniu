@@ -1,6 +1,6 @@
 {
   "name": "egg-full-qiniu-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于 egg-full-qiniu 优化的版本，封装七牛云SDK，方便在egg中使用，包含文件上传，资源管理，CDN推送",
   "eggPlugin": {
     "name": "fullQiniu"
